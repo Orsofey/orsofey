@@ -1,4 +1,4 @@
-![Header](https://github.com/Orsofey/orsofey/blob/main/assets/Screenshot_161.png)
+![Header](https://github.com/Orsofey/orsofey/blob/main/assets/Screenshot_166.png)
 
 ## i'm a beginner Software Engeneer
 
