@@ -9,4 +9,7 @@
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=F36208)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=21EA93)
 
-Follow Me
+### Follow Me
+
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=F6069F)
+![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=4ED7ED)
