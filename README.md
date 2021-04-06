@@ -2,6 +2,11 @@
 
 ## i'm a beginner Software Engeneer
 
-Language and Tools
+## Language and Tools
+
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
+![Pascal](https://img.shields.io/badge/-Pascal-090909?style=for-the-badge&logo=Pascal&logoColor=47C5FB)
+![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=F36208)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=21EA93)
 
 Follow Me
