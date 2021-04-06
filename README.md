@@ -13,3 +13,5 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=F6069F)](https://www.instagram.com/orsofey/)
 [![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=4ED7ED)](https://vk.com/orsofey)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orsofey&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
