@@ -11,5 +11,5 @@
 
 ### Follow Me
 
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=F6069F)
-![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=4ED7ED)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=F6069F)](https://www.instagram.com/orsofey/)
+[![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=4ED7ED)](https://vk.com/orsofey)
