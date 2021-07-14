@@ -1,6 +1,6 @@
 ![Header](https://github.com/Orsofey/orsofey/blob/main/assets/Screenshot_166.png)
 
-## i'm a beginner Software Engeneer
+## i'm a Software Engeneer
 
 ## Language and Tools
 
