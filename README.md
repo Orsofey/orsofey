@@ -11,7 +11,7 @@
 
 ### Follow Me
 
-[![Telegram](https://img.shields.io/badge/%2326A5E4)](https://t.me/orsofey)
+[![Telegram](https://img.shields.io/badge/26A5E4")](https://t.me/orsofey)
 [![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=4ED7ED)](https://vk.com/orsofey)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=F6069F)](https://www.instagram.com/orsofey/)
 
