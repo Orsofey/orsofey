@@ -1,5 +1,6 @@
-![Header](https://github.com/Orsofey/orsofey/blob/main/assets/Screenshot_166.png)
+[![Header](https://github.com/Orsofey/orsofey/blob/main/assets/Screenshot_166.png)](https://t.me/orsofey)
 
+About me
 ## i'm a Software Engeneer
 
 ## Language and Tools
