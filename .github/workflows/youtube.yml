@@ -1,0 +1,37 @@
+name: YouTube cards
+
+on:
+  schedule:
+    - cron: "41 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve channel ID
+        id: yt
+        run: |
+          html=$(curl -sL -A "Mozilla/5.0" -H "Accept-Language: en" "https://www.youtube.com/@orsofey")
+          id=$(echo "$html" | grep -oE '"externalId":"UC[A-Za-z0-9_-]{22}"' | head -1 | grep -oE 'UC[A-Za-z0-9_-]{22}')
+          [ -z "$id" ] && id=$(echo "$html" | grep -oE 'channel_id=UC[A-Za-z0-9_-]{22}' | head -1 | cut -d= -f2)
+          [ -z "$id" ] && { echo "Channel ID not found"; exit 1; }
+          echo "id=$id" >> "$GITHUB_OUTPUT"
+
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: ${{ steps.yt.outputs.id }}
+          max_videos: 6
+          card_width: 250
+          background_color: "#1a1b27"
+          title_color: "#c0caf5"
+          stats_color: "#7aa2f7"
+          show_duration: true
+          max_title_lines: 2
+          commit_message: "chore: update latest YouTube videos"
